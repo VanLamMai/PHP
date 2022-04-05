@@ -1,0 +1,30 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/*
+================================ CONTENT 1 ================================ */
+.content1 {
+	margin: 20px auto;
+	width:  600px;
+	border: 1px solid #999;
+	padding: 10px;
+	background: url("images/notebook_background.jpg") no-repeat;
+	min-height: 200px;
+}
+
+.content1 h1 {
+	color: red;
+	text-align: center;
+}
+
+.content1 ul {
+	margin: 23px 0px 0px 100px;
+}
+
+.content1 ul li{
+	margin-top: 5px;
+	list-style: decimal inside;
+}
+
